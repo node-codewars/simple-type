@@ -17,4 +17,9 @@ $ npm install simple-type
 
 ``` js
 var simpleType = require('simple-type');
+
+simpleType([1,2,3]) === 'array' // true
+simpleType({name: 'ruan', age: 12}) === 'object' //true
+simpleType(new Date()) === 'date' // true
+//string, number, null, function, regexp, boolean, undefined are also supported
 ```

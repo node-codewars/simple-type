@@ -1,0 +1,24 @@
+{
+  "name": "simple-type",
+  "version": "0.0.1",
+  "description": "enhance javascript typeof",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyl/simple-type"
+  },
+  "keywords": ["typeof"] ,
+  "author": "Yulong Ruan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/simple-type/issues"
+  },
+  "homepage": "https://github.com/ruanyl/simple-type",
+  "dependencies": {
+    "ava": "0.0.4"
+  },
+  "devDependencies": {}
+}

@@ -1,6 +1,6 @@
 simple-type
 ========
-[![build status](https://secure.travis-ci.org/ruanyl/simple-type.svg)](http://travis-ci.org/ruanyl/simple-type)
+[![build status](https://travis-ci.org/node-codewars/simple-type.svg)](http://travis-ci.org/ruanyl/simple-type)
 [![NPM version](https://badge.fury.io/js/simple-type.svg)](http://badge.fury.io/js/simple-type)
 
 enhance javascript typeof
